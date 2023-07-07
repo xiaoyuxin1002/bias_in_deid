@@ -8,7 +8,7 @@ We insert these names into 100 manually curated clinical templates and evaluate 
 
 ## Data
 
-Our data can be downloaded from <a href="">PhysioNet</a>.
+Our data can be downloaded from <a href="https://physionet.org/content/discharge-summary-templates/1.0/">PhysioNet</a>.
 - **General**: the data used for our general analysis.
     - **Input/names-first.csv** and **Input/names-last.csv** store the first and last names in the 16 name sets we created. Please refer to Section 3.2 in our paper and **Preparation/name.ipynb** in this repository for the full detail.
     - **Input/notes-base.csv** stores the 100 manually curated clinical templates where we marked the occurrence of names and other categories of protected health information (PHI).
