@@ -1,6 +1,6 @@
 # Bias in De-identification
 
-<a href="">In the Name of Fairness: Assessing the Bias in Clinical Record De-identification</a> (FAccT 2023).
+<a href="https://arxiv.org/abs/2305.11348">In the Name of Fairness: Assessing the Bias in Clinical Record De-identification</a> (FAccT 2023).
 
 In this project, we investigate the bias of de-identification systems on names in clinical notes via a large-scale empirical analysis. <br >
 We create 16 name sets that vary along four demographic dimensions: _gender_, _race_, _name popularity_, and _the decade of popularity_. <br >
